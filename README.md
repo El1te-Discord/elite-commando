@@ -8,6 +8,11 @@ So, to start of we need to clone the repository. To do this, open command prompt
 git clone https://github.com/El1te-Discord/elite-commando
 ```
 Now that we have the repository cloned, we can open the terminal in it. Then navigate to the **Setup** file and find more instructions there!
+If you would like it with some commands, type in the terminal:
+
+```
+git checkout commands
+```
 
 #### Important Links
 
