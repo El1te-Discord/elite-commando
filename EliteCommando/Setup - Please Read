@@ -1,0 +1,11 @@
+EliteCommando
+
+Thank you for choosing EliteCommando to power your bot!
+
+To get started, head over to config.json and change "TOKEN_HERE" to your bot token. You can find this here: https://discord.com/developers/applications/CLIENT_ID_HERE/bot
+
+Then, in your terminal, type "npm i".
+
+After that go to commands/template.js and read through it all. Then you can use that to make any commands you like!
+
+Once you make all your commands, save them and type "node index.js" in the terminal!
